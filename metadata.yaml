@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9273'
     url: http://www.gutenberg.org/2009/agents/9273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20395#The-Story-of-the-2-4th-Oxfordshire-and-Buckinghamshire-Light-Infantry
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-01-18'
 gutenberg_type: Text
